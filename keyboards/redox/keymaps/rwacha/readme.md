@@ -6,5 +6,6 @@ cd to top level of this git repo, compile, and reset the Pro Micros using the re
 
 ```
 cd ../../../..
+make git-submodule
 make redox/rev1:rwacha:dfu
 ```
